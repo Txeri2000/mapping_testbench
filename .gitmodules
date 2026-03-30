@@ -1,0 +1,3 @@
+[submodule "mapping"]
+	path = mapping
+	url = https://github.com/Txeri2000/mapping.git
